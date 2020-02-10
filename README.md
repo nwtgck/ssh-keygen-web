@@ -1,24 +1,10 @@
-# ssh-keygen-web
+# ssh-keygen
+<a href="https://ssh-keygen.netlify.com/"><img src="https://user-images.githubusercontent.com/9122190/28998409-c5bf7362-7a00-11e7-9b63-db56694522e7.png" alt="Launch now as Web App" height="48"></a>
 
-## Project setup
-```
-npm install
-```
+![ssh-keygen](doc_assets/ssh-keygen.gif)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Application
+<https://ssh-keygen.netlify.com>
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Thanks ❤️
+The core of this project was originally created by [Patrick Roumanoff](http://blog.roumanoff.com/). Thanks! The original repository is found on [PatrickRoumanoff/js-keygen](https://github.com/PatrickRoumanoff/js-keygen).
