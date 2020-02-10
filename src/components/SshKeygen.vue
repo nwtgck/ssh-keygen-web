@@ -24,7 +24,7 @@
              @click="generateKeys()"
              :loading="generatingKeys"
              :disabled="generatingKeys">
-        <v-icon left>mdi-key</v-icon>
+        <v-icon left>{{ icons.mdiKey }}</v-icon>
         Generate
       </v-btn>
     </v-row>
@@ -42,6 +42,7 @@
 <script lang="ts">
 import { Component, Prop, Vue } from 'vue-property-decorator';
 import {generateKeyPair} from 'web-ssh-keygen';
+import {mdiKey} from "@mdi/js"; 
 
 
 @Component
@@ -52,6 +53,10 @@ export default class SshKeygen extends Vue {
   private generatingKeys: boolean = false as boolean;
   private publicKey: string = "" as string;
   private privateKey: string = "" as string;
+
+  private icons = {
+    mdiKey,
+  };
 
   private async generateKeys(): Promise<void> {
     this.generatingKeys = true;
