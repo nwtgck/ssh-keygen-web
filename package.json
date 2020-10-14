@@ -13,7 +13,7 @@
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.5",
     "vue-property-decorator": "^9.0.0",
-    "vuetify": "^2.2.30",
+    "vuetify": "^2.3.14",
     "web-ssh-keygen": "^0.1.2"
   },
   "devDependencies": {
