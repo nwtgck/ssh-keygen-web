@@ -22,7 +22,7 @@
     "@typescript-eslint/parser": "^2.30.0",
     "@vue/cli-plugin-babel": "~4.3.1",
     "@vue/cli-plugin-eslint": "~4.3.1",
-    "@vue/cli-plugin-pwa": "~4.3.1",
+    "@vue/cli-plugin-pwa": "~4.5.9",
     "@vue/cli-plugin-typescript": "~4.3.1",
     "@vue/cli-service": "~4.5.9",
     "@vue/eslint-config-typescript": "^5.0.2",
