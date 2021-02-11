@@ -17,7 +17,7 @@
     "web-ssh-keygen": "^0.1.2"
   },
   "devDependencies": {
-    "@mdi/js": "^5.8.55",
+    "@mdi/js": "^5.9.55",
     "@typescript-eslint/eslint-plugin": "^2.34.0",
     "@typescript-eslint/parser": "^2.30.0",
     "@vue/cli-plugin-babel": "^4.5.11",
