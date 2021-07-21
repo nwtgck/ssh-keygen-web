@@ -4,7 +4,7 @@
 ![ssh-keygen](doc_assets/ssh-keygen.gif)
 
 ## Application
-<https://ssh-keygen.netlify.com>
+<https://ssh-keygen.nwtgck.org>
 
 ## Thanks ❤️
 The core of this project was originally created by [Patrick Roumanoff](http://blog.roumanoff.com/). Thanks! The original repository is found on [PatrickRoumanoff/js-keygen](https://github.com/PatrickRoumanoff/js-keygen).
